@@ -1,0 +1,47 @@
+.Nav-div {
+    background-color: #21222a;
+}
+
+.Nav {
+    display: flex;
+    padding: 5px 20px;
+}
+
+nav img {
+    padding-top: 10px ;
+    height: 40px;
+    margin-right: 5px;
+}
+
+nav h3 {
+    margin-right: auto;
+    color: #61DAFB;
+}
+
+nav h4 {
+    color: #DEEBF8;
+    font-weight: 700;
+}
+
+.Body-div {
+    color: white;
+}
+
+.Main-h1{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.Body-div ul {
+    text-align: justify;
+    margin-left: 20px;
+}
+
+.Body-div ul > li {
+    margin: 25px 20px;
+}
+
+.Body-div ul > li::marker {
+    font-size: 1.5rem;
+    color: #61DAFB;
+}
